@@ -1,7 +1,9 @@
 2N49R1M3: Alta Performance e Segurança Criptográfica
+
 ​Este repositório é a base pública para a demonstração de eficiência computacional de alta complexidade do motor 2N49R1M3. Apresentamos aqui resultados que redefinem os limites da busca por números primos em escalas massivas, expondo o impacto direto na segurança digital global.
 
 ​⚖️ Propriedade Intelectual e Base Legal
+
 ​O desenvolvimento desta tecnologia e a metodologia aplicada estão devidamente protegidos e registrados junto ao INPI (Instituto Nacional da Propriedade Industrial):
 ​Patente de Invenção (PI): BR 10 2026 004732 2
 ​Modelo de Utilidade (MU): BR 20 2026 004733 0
